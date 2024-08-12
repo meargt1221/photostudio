@@ -1,0 +1,29 @@
+a {
+    background-color: #456;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding: 25px;
+    text-decoration: none;
+}
+a:hover{
+    background-color: red;
+}
+#active{
+    background-color: aqua;
+}
+
+#welcome{
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bolder;
+    font-style: inherit;
+}
+table{
+    border: 2px;
+    border-collapse: ;
+    padding: auto;
+    margin: auto;
+    tab-size: 50%;
+}
